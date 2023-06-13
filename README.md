@@ -1,4 +1,4 @@
-# MCModsMaven
+## MCModsMaven
 This is a maven repository to use it add these lines to your repositories in your build.gradle
 ```gradle
 maven {
@@ -6,7 +6,7 @@ maven {
 }
 ```
 
-## Example dependecy
+### Example dependecy
 ```gradle
 implementation fg.deobf("com.ametrinstudios:ametrin:${minecraft_version}-${ametrin_version}")
 ```
