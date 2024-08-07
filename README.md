@@ -1,12 +1,13 @@
-## MCModsMaven
+## Ametrin Studios Maven
 This is a maven repository to use it add these lines to your repositories in your build.gradle
 ```gradle
 maven {
-  url "https://github.com/BarionLP/MCModsMaven/raw/main/"
+  name "Ametrin Studios Maven"
+  url "https://github.com/Ametrin-Studios/maven/raw/main/"
 }
 ```
 
-### Example dependecy
+### Ametrin API (NeoForge)
 ```gradle
-implementation fg.deobf("com.ametrinstudios:ametrin:${minecraft_version}-${ametrin_version}")
+implementation "com.ametrinstudios:ametrin:${minecraft_version}-${ametrin_version}"
 ```
