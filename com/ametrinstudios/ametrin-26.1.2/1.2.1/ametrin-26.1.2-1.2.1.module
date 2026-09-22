@@ -1,0 +1,77 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ametrinstudios",
+    "module": "ametrin-26.1.2",
+    "version": "1.2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ametrin-26.1.2-1.2.1.jar",
+          "url": "ametrin-26.1.2-1.2.1.jar",
+          "size": 179582,
+          "sha512": "a5b37172ca1a402c46c6c943fe046680fbc7f374563d14d69f1acf57ba7f8942e6114b8e5d4d0d162439a1bda69f1fcb69631a9d227452c1d4246639d66a4955",
+          "sha256": "c4dc282c77312733230dde9a069a72e81701fb739147efbe6960001765637b88",
+          "sha1": "a787da71e21a599377e6681c83cb0d3961fd713b",
+          "md5": "a4928ef371e8b6f4c59cf672a5bdb041"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ametrin-26.1.2-1.2.1.jar",
+          "url": "ametrin-26.1.2-1.2.1.jar",
+          "size": 179582,
+          "sha512": "a5b37172ca1a402c46c6c943fe046680fbc7f374563d14d69f1acf57ba7f8942e6114b8e5d4d0d162439a1bda69f1fcb69631a9d227452c1d4246639d66a4955",
+          "sha256": "c4dc282c77312733230dde9a069a72e81701fb739147efbe6960001765637b88",
+          "sha1": "a787da71e21a599377e6681c83cb0d3961fd713b",
+          "md5": "a4928ef371e8b6f4c59cf672a5bdb041"
+        }
+      ]
+    },
+    {
+      "name": "interfaceInjectionDataElements",
+      "attributes": {
+        "org.gradle.category": "interfaceinjection"
+      },
+      "files": [
+        {
+          "name": "ametrin-26.1.2-1.2.1-interfaceinjection.json",
+          "url": "ametrin-26.1.2-1.2.1-interfaceinjection.json",
+          "size": 447,
+          "sha512": "dc13e3e634f87a2fea01e3fe2dbdf83ecb54c75bd9e2535c94f7e67b3eb98d0f4f1fb95eed6ff860b6dc5b9ee586e71cd758b353372d87755150c7f9393df86f",
+          "sha256": "4b3d57ff294912d63bf92cb22555cd8582cdccf17acf35beedec0907e4c51035",
+          "sha1": "225654bec9d99f9cbc0f334e82b28d5d8683fd3f",
+          "md5": "c35245dfcea8b5cd77d5f449480d390b"
+        }
+      ]
+    }
+  ]
+}
