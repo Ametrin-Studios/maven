@@ -55,6 +55,26 @@
           "md5": "1e9bafe53f6fbf2444f5db03c162292e"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ametrin_structures-26.1.2-0.1.0-beta-sources.jar",
+          "url": "ametrin_structures-26.1.2-0.1.0-beta-sources.jar",
+          "size": 190388,
+          "sha512": "490b9d1bd3d213b5d4f22b8ef6c195fc56025ae4d426c797b33ddba86b5c3b59356d2f1aa365a0cefda02b96383b2172f3a9d60f7509462b9751df8fa72aa53b",
+          "sha256": "a05cb3aa50f2a02e9fbba5783854ec090d4c07951a5d814d1f3a6923c6782938",
+          "sha1": "3dfa37addadb530f3fee3b4a7925a5d90059044f",
+          "md5": "b03463b1db32ef9cf53e283a8145d971"
+        }
+      ]
     }
   ]
 }
