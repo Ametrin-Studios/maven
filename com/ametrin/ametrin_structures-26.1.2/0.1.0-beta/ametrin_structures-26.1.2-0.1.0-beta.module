@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.ametrin.structures",
+    "group": "com.ametrin",
     "module": "ametrin_structures-26.1.2",
     "version": "0.1.0-beta",
     "attributes": {

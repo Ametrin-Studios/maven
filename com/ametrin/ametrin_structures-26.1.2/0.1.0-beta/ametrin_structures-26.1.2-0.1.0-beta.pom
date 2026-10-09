@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.ametrin.structures</groupId>
+  <groupId>com.ametrin</groupId>
   <artifactId>ametrin_structures-26.1.2</artifactId>
   <version>0.1.0-beta</version>
   <url>https://github.com/Ametrin-Studios/AmetrinStructures</url>

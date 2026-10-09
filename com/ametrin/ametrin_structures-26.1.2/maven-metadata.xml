@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.ametrin.structures</groupId>
+  <groupId>com.ametrin</groupId>
   <artifactId>ametrin_structures-26.1.2</artifactId>
   <versioning>
     <latest>0.1.0-beta</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.1.0-beta</version>
     </versions>
-    <lastUpdated>20261009071254</lastUpdated>
+    <lastUpdated>20261009074845</lastUpdated>
   </versioning>
 </metadata>
