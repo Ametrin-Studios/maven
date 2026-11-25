@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ametrin",
+    "module": "ametrin_structures-26.1.2",
+    "version": "0.4.1-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "ametrin_structures-26.1.2-0.4.1-beta.jar",
+          "url": "ametrin_structures-26.1.2-0.4.1-beta.jar",
+          "size": 787459,
+          "sha512": "5abf852ffe4506389af466f9a509dcb343f4b5de75d7713fe130491e352c742bb35e9a65f0df1f11dc9b7c9ddd8bdac1dbe0f78559e37460191f4d6aa4aaab8b",
+          "sha256": "fd26dfaec12d22df9469c2e2446e58e92dc95393bfa7b3a28dd562d5859d5b61",
+          "sha1": "952b522e77abc2fa166e8c90c2ea36fdee019e42",
+          "md5": "c8fafdb1f112fdf9e7e897547b201bec"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ametrin_structures-26.1.2-0.4.1-beta.jar",
+          "url": "ametrin_structures-26.1.2-0.4.1-beta.jar",
+          "size": 787459,
+          "sha512": "5abf852ffe4506389af466f9a509dcb343f4b5de75d7713fe130491e352c742bb35e9a65f0df1f11dc9b7c9ddd8bdac1dbe0f78559e37460191f4d6aa4aaab8b",
+          "sha256": "fd26dfaec12d22df9469c2e2446e58e92dc95393bfa7b3a28dd562d5859d5b61",
+          "sha1": "952b522e77abc2fa166e8c90c2ea36fdee019e42",
+          "md5": "c8fafdb1f112fdf9e7e897547b201bec"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ametrin_structures-26.1.2-0.4.1-beta-sources.jar",
+          "url": "ametrin_structures-26.1.2-0.4.1-beta-sources.jar",
+          "size": 273851,
+          "sha512": "5c014e3ff93b4b60c837bea6facd82960ff07d93fb153a70a881fa7e2a28b203d714a747d4f1386134c2f9f7da7db13561658df505ef389135d5153568ab3472",
+          "sha256": "6e055f64327ad7649d49db60388aba4866e6b874e6a4df148972690329468e35",
+          "sha1": "72076b7f4cba1aea70a2d03baa2d6d50a5a4bac4",
+          "md5": "8a90b4eaddfa026bc5affa00833b0b30"
+        }
+      ]
+    }
+  ]
+}
